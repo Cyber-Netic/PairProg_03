@@ -1,0 +1,1 @@
+puts [*0..6].reject{|n| n ==3 or n == 6}
